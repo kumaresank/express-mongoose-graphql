@@ -1,4 +1,4 @@
-Express,Mongoose,Docker & ES-Latest Starter Kit
+Express and GraphQL Starter Kit
 ===============================================
 
 Getting Started
@@ -6,14 +6,11 @@ Getting Started
 
 ```sh
 # clone it
-git clone https://github.com/kumaresank/docker-express-mongo-es6.git
-cd docker-express-mongo-es6
+git clone https://github.com/kumaresank/express-mongoose-graphql.git
+cd express-mongoose-graphql
 
 # Install dependencies
 npm install
-
-# Install dependencies
-npm install or npm i
 
 # Start development live-reload server
 npm start
