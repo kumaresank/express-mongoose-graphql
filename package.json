@@ -1,0 +1,31 @@
+{
+    "name": "express-graphql-mongoose",
+    "version": "1.0.0",
+    "description": "GraphQL implementation with ExpressJS and Mongoose(MongoDB) ",
+    "main": "index.js",
+    "scripts": {
+        "start": "node ./server",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/kumaresank/express-mongoose-graphql.git"
+    },
+    "keywords": [
+        "express",
+        "graphql",
+        "mongoose",
+        "mongodb"
+    ],
+    "author": "Kumaresan K <tkkumaresan@gmail.com>",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/kumaresank/express-mongoose-graphql/issues"
+    },
+    "homepage": "https://github.com/kumaresank/express-mongoose-graphql#readme",
+    "dependencies": {
+        "express": "^4.16.2",
+        "express-graphql": "^0.6.12",
+        "graphql": "^0.13.1"
+    }
+}
